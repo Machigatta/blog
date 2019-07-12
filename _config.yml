@@ -27,7 +27,7 @@ markdown: kramdown
 theme: plainwhite
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 
 show_excerpts: true
 plainwhite:
