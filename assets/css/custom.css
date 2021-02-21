@@ -17,3 +17,7 @@ img[alt$="><"] {
 main .about img {
   border-radius: 100px;
 }
+
+html {
+  background-color: #eee;
+}

@@ -24,7 +24,7 @@ github_username:  machigatta
 
 # Build settings
 markdown: kramdown
-remote_theme: thelehhman/plainwhite-jekyll
+remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
 
@@ -32,6 +32,7 @@ show_excerpts: true
 plainwhite:
   disqus_shortname: blog-machigatta
   name: Armin Seidling
+  search: true
   tagline: Senior Fullstack Developer
   date_format: "%b %-d, %Y"
   sitemap: true
