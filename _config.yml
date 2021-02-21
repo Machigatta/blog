@@ -27,6 +27,7 @@ markdown: kramdown
 remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
+  - simple-jekyll-search
 
 show_excerpts: true
 plainwhite:
@@ -37,6 +38,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   sitemap: true
   analytics_id: 'UA-76788949-1'
+  portfolio_image:  "assets/portfolio.png"
 
   social_links:
     twitter: MachigattaDE
