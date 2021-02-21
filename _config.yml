@@ -23,7 +23,7 @@ twitter_username: MachigattaDE
 github_username:  machigatta
 
 # Build settings
-markdown: kramdown
+markdown: GFM
 remote_theme: samarsault/plainwhite-jekyll
 plugins:
   - jekyll-seo-tag
