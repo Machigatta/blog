@@ -21,3 +21,9 @@ main .about img {
 html {
   background-color: #eee;
 }
+
+:not(highlight) p code {
+  background-color: #dcbdbd;
+  color: #333;
+  padding: 0px 5px 0px 5px;
+}
